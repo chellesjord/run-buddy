@@ -397,6 +397,7 @@ section {
     header {
         padding-bottom: 0;
         justify-self: center;
+        position: relative;
     }
 
     header h1 {
